@@ -1,0 +1,4 @@
+imutils
+scipy
+opencv-python-headless
+numpy
