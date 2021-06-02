@@ -16,19 +16,19 @@ Trout example dimensiones
 
 ## Clone this repo
 
-```
+```bash
 git clone https://github.com/DZPeru/fish-classifier
 ```
 
 ## Install requirements
 
-```
+```bash
 pip3 install -r requirements.txt
 ```
 
 ## How to run
 
-```
+```bash
 python3 measure.py --image image.jpg --width 2.5
 ```
 
